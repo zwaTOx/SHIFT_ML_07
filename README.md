@@ -19,15 +19,15 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/zwaTOx/SHIFT_ML_07
-cd SHIFT_ML_07
+cd SHIFT_ML_07```
 
 2. Установите зависимости:
 ```bash
-pip install pyproject.toml
+pip install pyproject.toml```
 
 3. Запустите инференс модели:
 ```bash
-streamlit run inference.py
+streamlit run inference.py```
 
 
 
@@ -54,12 +54,13 @@ The project includes:
 1. Clone the repository:
 ```bash
 git clone https://github.com/zwaTOx/SHIFT_ML_07
-cd SHIFT_ML_07
+cd SHIFT_ML_07```
 
 2. Install dependencies:
 ```bash
-pip install pyproject.toml
+pip install pyproject.toml```
 
 3. Run the inference application:
 ```bash
-streamlit run inference.py
+streamlit run inference.py```
+
